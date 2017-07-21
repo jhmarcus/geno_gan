@@ -1,0 +1,28 @@
+PLINK v1.90p 64-bit (31 Mar 2016)
+Options in effect:
+  --bfile H938_Euro.LDprune
+  --geno 0
+  --out H938_Euro.LDprune
+  --recode A-transpose
+
+Hostname: midway2-login2.rcc.local
+Working directory: /project/jnovembre/jhmarcus/geno_gan/data
+Start time: Fri Jul 21 17:53:57 2017
+
+Random number seed: 1500677637
+257139 MB RAM detected; reserving 128569 MB for main workspace.
+Allocated 96426 MB successfully, after larger attempt(s) failed.
+63439 variants loaded from .bim file.
+124 people (65 males, 59 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 124 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 6 het. haploid genotypes present (see H938_Euro.LDprune.hh ); many
+commands treat these as missing.
+Total genotyping rate is 0.999113.
+3962 variants removed due to missing genotype data (--geno).
+59477 variants and 124 people pass filters and QC.
+Note: No phenotypes present.
+--recode A-transpose to H938_Euro.LDprune.traw ... done.
+
+End time: Fri Jul 21 17:53:57 2017
